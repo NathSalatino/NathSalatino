@@ -1,10 +1,10 @@
-## Oii, eu sou a Nathalia! Atualmente estudante de Desenvolvimento Web Front End.
+## Oii, eu sou a Nathalia! Estudante de Desenvolvimento Web Front End.
 
 <div align="center">
 
   <a href="https://github.com/nathsalatino">
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nathsalatino&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nathsalatino&show_icons=true&theme=jolly"/>
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathsalatino&layout=compact&langs_count=7&theme=jolly"/>
   
