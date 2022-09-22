@@ -1,4 +1,4 @@
-## Oii, eu sou a Nathalia! Atualmente estudante de Desenvolvimento Front End.
+## Oii, eu sou a Nathalia! Atualmente estudante de Desenvolvimento Web Front End.
 
 <div align="center">
 
